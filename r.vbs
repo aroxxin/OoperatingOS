@@ -1,0 +1,1 @@
+x=MsgBox("czy cherz by linux212 przewadowal pliki " ,3+64, "/0*")
